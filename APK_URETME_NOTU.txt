@@ -1,0 +1,10 @@
+APK üretmenin en kolay ücretsiz yolu: GitHub Actions
+
+1) github.com sitesinde yeni bir repository aç.
+2) Bu klasördeki tüm dosyaları repository içine yükle.
+3) GitHub'da Actions sekmesine gir.
+4) "Build Android APK" workflow'unu aç.
+5) "Run workflow" butonuna bas.
+6) İşlem bitince en altta Artifacts bölümünden APK dosyasını indir.
+
+Not: Telefonla da GitHub sitesine girip dosyaları yükleyebilirsin; ama ZIP içeriğini düzgün açıp klasör yapısını koruman gerekir.

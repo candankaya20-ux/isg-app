@@ -1,0 +1,830 @@
+{
+  "01. 4857 Sayılı İş Kanunu": {
+    "kartlar": [
+      {
+        "soru": "4857: Haftalık süre",
+        "cevap": "Haftalık normal çalışma süresi en çok 45 saattir."
+      },
+      {
+        "soru": "6331: İş kazası bildirimi",
+        "cevap": "İş kazası SGK’ya 3 iş günü içinde bildirilir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "4857 sayılı Kanun’a göre haftalık normal çalışma süresi en çok kaç saattir?",
+        "secenekler": {
+          "A": "40",
+          "B": "42",
+          "C": "45",
+          "D": "48"
+        },
+        "cevap": "C",
+        "aciklama": "Haftalık normal çalışma süresi en çok 45 saattir."
+      },
+      {
+        "soru": "İş kazası SGK’ya kaç iş günü içinde bildirilir?",
+        "secenekler": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "5"
+        },
+        "cevap": "C",
+        "aciklama": "İş kazası SGK’ya 3 iş günü içinde bildirilir."
+      }
+    ]
+  },
+  "02. 6331 Sayılı İSG Kanunu": {
+    "kartlar": [
+      {
+        "soru": "6331: İş kazası bildirimi",
+        "cevap": "İş kazası SGK’ya 3 iş günü içinde bildirilir."
+      },
+      {
+        "soru": "Genç çalışan",
+        "cevap": "15 yaşını tamamlamış, 18 yaşını tamamlamamış kişidir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İş kazası SGK’ya kaç iş günü içinde bildirilir?",
+        "secenekler": {
+          "A": "1",
+          "B": "2",
+          "C": "3",
+          "D": "5"
+        },
+        "cevap": "C",
+        "aciklama": "İş kazası SGK’ya 3 iş günü içinde bildirilir."
+      },
+      {
+        "soru": "Genç çalışan hangi yaş aralığını ifade eder?",
+        "secenekler": {
+          "A": "14 altı",
+          "B": "15-18",
+          "C": "18-21",
+          "D": "21 üstü"
+        },
+        "cevap": "B",
+        "aciklama": "15 yaşını tamamlamış, 18 yaşını tamamlamamış kişidir."
+      }
+    ]
+  },
+  "03. Çocuk ve Genç Çalışanlar": {
+    "kartlar": [
+      {
+        "soru": "Genç çalışan",
+        "cevap": "15 yaşını tamamlamış, 18 yaşını tamamlamamış kişidir."
+      },
+      {
+        "soru": "İGU süreleri",
+        "cevap": "Az/tehlikeli/çok tehlikeli için 10-20-40 dk uygulanır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Genç çalışan hangi yaş aralığını ifade eder?",
+        "secenekler": {
+          "A": "14 altı",
+          "B": "15-18",
+          "C": "18-21",
+          "D": "21 üstü"
+        },
+        "cevap": "B",
+        "aciklama": "15 yaşını tamamlamış, 18 yaşını tamamlamamış kişidir."
+      },
+      {
+        "soru": "İGU süreleri doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "5-10-15",
+          "B": "10-20-40",
+          "C": "15-30-60",
+          "D": "1-2-3"
+        },
+        "cevap": "B",
+        "aciklama": "Az/tehlikeli/çok tehlikeli için 10-20-40 dk uygulanır."
+      }
+    ]
+  },
+  "04. Uzman, Hekim ve DSP Çalışma Süreleri": {
+    "kartlar": [
+      {
+        "soru": "İGU süreleri",
+        "cevap": "Az/tehlikeli/çok tehlikeli için 10-20-40 dk uygulanır."
+      },
+      {
+        "soru": "Çalışan temsilcisi",
+        "cevap": "Seçim esastır; seçim yapılamazsa atama yapılır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İGU süreleri doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "5-10-15",
+          "B": "10-20-40",
+          "C": "15-30-60",
+          "D": "1-2-3"
+        },
+        "cevap": "B",
+        "aciklama": "Az/tehlikeli/çok tehlikeli için 10-20-40 dk uygulanır."
+      },
+      {
+        "soru": "Çalışan temsilcisinin belirlenmesinde temel yöntem hangisidir?",
+        "secenekler": {
+          "A": "Seçim",
+          "B": "Noter",
+          "C": "SGK",
+          "D": "Mahkeme"
+        },
+        "cevap": "A",
+        "aciklama": "Seçim esastır; seçim yapılamazsa atama yapılır."
+      }
+    ]
+  },
+  "05. Çalışan Temsilcisi": {
+    "kartlar": [
+      {
+        "soru": "Çalışan temsilcisi",
+        "cevap": "Seçim esastır; seçim yapılamazsa atama yapılır."
+      },
+      {
+        "soru": "İSG eğitimleri",
+        "cevap": "Çok tehlikeli/tehlikeli/az için 1-2-3 yılda yenilenir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Çalışan temsilcisinin belirlenmesinde temel yöntem hangisidir?",
+        "secenekler": {
+          "A": "Seçim",
+          "B": "Noter",
+          "C": "SGK",
+          "D": "Mahkeme"
+        },
+        "cevap": "A",
+        "aciklama": "Seçim esastır; seçim yapılamazsa atama yapılır."
+      },
+      {
+        "soru": "Eğitim yenileme periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3",
+          "B": "2-4-6",
+          "C": "3-2-1",
+          "D": "6-4-2"
+        },
+        "cevap": "A",
+        "aciklama": "Çok tehlikeli/tehlikeli/az için 1-2-3 yılda yenilenir."
+      }
+    ]
+  },
+  "06. İSG Eğitimleri": {
+    "kartlar": [
+      {
+        "soru": "İSG eğitimleri",
+        "cevap": "Çok tehlikeli/tehlikeli/az için 1-2-3 yılda yenilenir."
+      },
+      {
+        "soru": "İSG Kurulu",
+        "cevap": "Çok/tehlikeli/az için 1-2-3 ayda bir toplanır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Eğitim yenileme periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3",
+          "B": "2-4-6",
+          "C": "3-2-1",
+          "D": "6-4-2"
+        },
+        "cevap": "A",
+        "aciklama": "Çok tehlikeli/tehlikeli/az için 1-2-3 yılda yenilenir."
+      },
+      {
+        "soru": "İSG Kurulu toplantı periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3 ay",
+          "B": "2-4-6 ay",
+          "C": "3-2-1 yıl",
+          "D": "Her gün"
+        },
+        "cevap": "A",
+        "aciklama": "Çok/tehlikeli/az için 1-2-3 ayda bir toplanır."
+      }
+    ]
+  },
+  "07. İSG Kurulları": {
+    "kartlar": [
+      {
+        "soru": "İSG Kurulu",
+        "cevap": "Çok/tehlikeli/az için 1-2-3 ayda bir toplanır."
+      },
+      {
+        "soru": "İşaret renkleri",
+        "cevap": "Mavi emir, sarı uyarı, yeşil acil çıkış/ilkyardım, kırmızı yasak/yangın."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İSG Kurulu toplantı periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3 ay",
+          "B": "2-4-6 ay",
+          "C": "3-2-1 yıl",
+          "D": "Her gün"
+        },
+        "cevap": "A",
+        "aciklama": "Çok/tehlikeli/az için 1-2-3 ayda bir toplanır."
+      },
+      {
+        "soru": "Mavi daire işareti neyi ifade eder?",
+        "secenekler": {
+          "A": "Yasak",
+          "B": "Uyarı",
+          "C": "Emir",
+          "D": "Acil çıkış"
+        },
+        "cevap": "C",
+        "aciklama": "Mavi emir, sarı uyarı, yeşil acil çıkış/ilkyardım, kırmızı yasak/yangın."
+      }
+    ]
+  },
+  "08. Sağlık ve Güvenlik İşaretleri": {
+    "kartlar": [
+      {
+        "soru": "İşaret renkleri",
+        "cevap": "Mavi emir, sarı uyarı, yeşil acil çıkış/ilkyardım, kırmızı yasak/yangın."
+      },
+      {
+        "soru": "5510 bildirimi",
+        "cevap": "İş kazası SGK ile ilişkilidir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Mavi daire işareti neyi ifade eder?",
+        "secenekler": {
+          "A": "Yasak",
+          "B": "Uyarı",
+          "C": "Emir",
+          "D": "Acil çıkış"
+        },
+        "cevap": "C",
+        "aciklama": "Mavi emir, sarı uyarı, yeşil acil çıkış/ilkyardım, kırmızı yasak/yangın."
+      },
+      {
+        "soru": "İş kazası bildirimi hangi kuruma yapılır?",
+        "secenekler": {
+          "A": "SGK",
+          "B": "Belediye",
+          "C": "Noter",
+          "D": "Tapu"
+        },
+        "cevap": "A",
+        "aciklama": "İş kazası SGK ile ilişkilidir."
+      }
+    ]
+  },
+  "09. 5510 Sayılı Kanun": {
+    "kartlar": [
+      {
+        "soru": "5510 bildirimi",
+        "cevap": "İş kazası SGK ile ilişkilidir."
+      },
+      {
+        "soru": "Gürültü sınırı",
+        "cevap": "LEX,8h maruziyet sınır değeri 87 dB(A)."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İş kazası bildirimi hangi kuruma yapılır?",
+        "secenekler": {
+          "A": "SGK",
+          "B": "Belediye",
+          "C": "Noter",
+          "D": "Tapu"
+        },
+        "cevap": "A",
+        "aciklama": "İş kazası SGK ile ilişkilidir."
+      },
+      {
+        "soru": "Gürültüde LEX,8h sınır değeri kaç dB(A)?",
+        "secenekler": {
+          "A": "80",
+          "B": "85",
+          "C": "87",
+          "D": "90"
+        },
+        "cevap": "C",
+        "aciklama": "LEX,8h maruziyet sınır değeri 87 dB(A)."
+      }
+    ]
+  },
+  "10. Gürültü ve Titreşim": {
+    "kartlar": [
+      {
+        "soru": "Gürültü sınırı",
+        "cevap": "LEX,8h maruziyet sınır değeri 87 dB(A)."
+      },
+      {
+        "soru": "Meslek hastalığı",
+        "cevap": "İşin niteliği veya yürütüm şartları nedeniyle tekrarlanan sebeple oluşur."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Gürültüde LEX,8h sınır değeri kaç dB(A)?",
+        "secenekler": {
+          "A": "80",
+          "B": "85",
+          "C": "87",
+          "D": "90"
+        },
+        "cevap": "C",
+        "aciklama": "LEX,8h maruziyet sınır değeri 87 dB(A)."
+      },
+      {
+        "soru": "Meslek hastalığının ana özelliği hangisidir?",
+        "secenekler": {
+          "A": "Tek ani olay",
+          "B": "Tekrarlanan işle ilişkili maruziyet",
+          "C": "Sadece trafik kazası",
+          "D": "Sadece izin"
+        },
+        "cevap": "B",
+        "aciklama": "İşin niteliği veya yürütüm şartları nedeniyle tekrarlanan sebeple oluşur."
+      }
+    ]
+  },
+  "11. Meslek Hastalıkları": {
+    "kartlar": [
+      {
+        "soru": "Meslek hastalığı",
+        "cevap": "İşin niteliği veya yürütüm şartları nedeniyle tekrarlanan sebeple oluşur."
+      },
+      {
+        "soru": "Biyolojik gruplar",
+        "cevap": "Biyolojik risk etkenleri 1-4 gruba ayrılır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Meslek hastalığının ana özelliği hangisidir?",
+        "secenekler": {
+          "A": "Tek ani olay",
+          "B": "Tekrarlanan işle ilişkili maruziyet",
+          "C": "Sadece trafik kazası",
+          "D": "Sadece izin"
+        },
+        "cevap": "B",
+        "aciklama": "İşin niteliği veya yürütüm şartları nedeniyle tekrarlanan sebeple oluşur."
+      },
+      {
+        "soru": "Biyolojik risk etkenleri kaç gruptur?",
+        "secenekler": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "cevap": "C",
+        "aciklama": "Biyolojik risk etkenleri 1-4 gruba ayrılır."
+      }
+    ]
+  },
+  "12. Biyolojik Risk Etkenleri": {
+    "kartlar": [
+      {
+        "soru": "Biyolojik gruplar",
+        "cevap": "Biyolojik risk etkenleri 1-4 gruba ayrılır."
+      },
+      {
+        "soru": "SDS",
+        "cevap": "Güvenlik bilgi formu 16 bölümden oluşur."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Biyolojik risk etkenleri kaç gruptur?",
+        "secenekler": {
+          "A": "2",
+          "B": "3",
+          "C": "4",
+          "D": "5"
+        },
+        "cevap": "C",
+        "aciklama": "Biyolojik risk etkenleri 1-4 gruba ayrılır."
+      },
+      {
+        "soru": "Güvenlik bilgi formu kaç bölümden oluşur?",
+        "secenekler": {
+          "A": "8",
+          "B": "12",
+          "C": "14",
+          "D": "16"
+        },
+        "cevap": "D",
+        "aciklama": "Güvenlik bilgi formu 16 bölümden oluşur."
+      }
+    ]
+  },
+  "13. Kimyasal Risk Etkenleri": {
+    "kartlar": [
+      {
+        "soru": "SDS",
+        "cevap": "Güvenlik bilgi formu 16 bölümden oluşur."
+      },
+      {
+        "soru": "Acil plan",
+        "cevap": "Acil durum planı çok/tehlikeli/az için 2-4-6 yılda yenilenir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Güvenlik bilgi formu kaç bölümden oluşur?",
+        "secenekler": {
+          "A": "8",
+          "B": "12",
+          "C": "14",
+          "D": "16"
+        },
+        "cevap": "D",
+        "aciklama": "Güvenlik bilgi formu 16 bölümden oluşur."
+      },
+      {
+        "soru": "Acil durum planı yenileme periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3",
+          "B": "2-4-6",
+          "C": "3-4-5",
+          "D": "6-4-2"
+        },
+        "cevap": "B",
+        "aciklama": "Acil durum planı çok/tehlikeli/az için 2-4-6 yılda yenilenir."
+      }
+    ]
+  },
+  "14. İşyerlerinde Acil Durumlar": {
+    "kartlar": [
+      {
+        "soru": "Acil plan",
+        "cevap": "Acil durum planı çok/tehlikeli/az için 2-4-6 yılda yenilenir."
+      },
+      {
+        "soru": "İşin durdurulması",
+        "cevap": "İtiraz süresi 6 iş günüdür."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Acil durum planı yenileme periyodu doğru sıra hangisidir?",
+        "secenekler": {
+          "A": "1-2-3",
+          "B": "2-4-6",
+          "C": "3-4-5",
+          "D": "6-4-2"
+        },
+        "cevap": "B",
+        "aciklama": "Acil durum planı çok/tehlikeli/az için 2-4-6 yılda yenilenir."
+      },
+      {
+        "soru": "İşin durdurulması kararına itiraz süresi kaç iş günüdür?",
+        "secenekler": {
+          "A": "3",
+          "B": "5",
+          "C": "6",
+          "D": "10"
+        },
+        "cevap": "C",
+        "aciklama": "İtiraz süresi 6 iş günüdür."
+      }
+    ]
+  },
+  "15. İşin Durdurulması": {
+    "kartlar": [
+      {
+        "soru": "İşin durdurulması",
+        "cevap": "İtiraz süresi 6 iş günüdür."
+      },
+      {
+        "soru": "Yapı işleri",
+        "cevap": "Düşmeye karşı toplu koruma önceliklidir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İşin durdurulması kararına itiraz süresi kaç iş günüdür?",
+        "secenekler": {
+          "A": "3",
+          "B": "5",
+          "C": "6",
+          "D": "10"
+        },
+        "cevap": "C",
+        "aciklama": "İtiraz süresi 6 iş günüdür."
+      },
+      {
+        "soru": "Yapı işlerinde düşmeye karşı öncelikli yaklaşım hangisidir?",
+        "secenekler": {
+          "A": "Toplu koruma",
+          "B": "Sadece uyarı",
+          "C": "Hiçbir önlem",
+          "D": "Sözlü talimat"
+        },
+        "cevap": "A",
+        "aciklama": "Düşmeye karşı toplu koruma önceliklidir."
+      }
+    ]
+  },
+  "16. Yapı İşlerinde İSG": {
+    "kartlar": [
+      {
+        "soru": "Yapı işleri",
+        "cevap": "Düşmeye karşı toplu koruma önceliklidir."
+      },
+      {
+        "soru": "Maden metan",
+        "cevap": "Metanın patlayıcılık aralığı yaklaşık %5-%15’tir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Yapı işlerinde düşmeye karşı öncelikli yaklaşım hangisidir?",
+        "secenekler": {
+          "A": "Toplu koruma",
+          "B": "Sadece uyarı",
+          "C": "Hiçbir önlem",
+          "D": "Sözlü talimat"
+        },
+        "cevap": "A",
+        "aciklama": "Düşmeye karşı toplu koruma önceliklidir."
+      },
+      {
+        "soru": "Metanın patlayıcılık aralığı yaklaşık hangisidir?",
+        "secenekler": {
+          "A": "%1-%2",
+          "B": "%5-%15",
+          "C": "%20-%30",
+          "D": "%40-%60"
+        },
+        "cevap": "B",
+        "aciklama": "Metanın patlayıcılık aralığı yaklaşık %5-%15’tir."
+      }
+    ]
+  },
+  "17. Maden İşyerlerinde İSG": {
+    "kartlar": [
+      {
+        "soru": "Maden metan",
+        "cevap": "Metanın patlayıcılık aralığı yaklaşık %5-%15’tir."
+      },
+      {
+        "soru": "İş hijyeni TWA",
+        "cevap": "TWA 8 saatlik zaman ağırlıklı ortalamadır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Metanın patlayıcılık aralığı yaklaşık hangisidir?",
+        "secenekler": {
+          "A": "%1-%2",
+          "B": "%5-%15",
+          "C": "%20-%30",
+          "D": "%40-%60"
+        },
+        "cevap": "B",
+        "aciklama": "Metanın patlayıcılık aralığı yaklaşık %5-%15’tir."
+      },
+      {
+        "soru": "TWA hangi süre ile ilişkilidir?",
+        "secenekler": {
+          "A": "5 dk",
+          "B": "15 dk",
+          "C": "8 saat",
+          "D": "24 saat"
+        },
+        "cevap": "C",
+        "aciklama": "TWA 8 saatlik zaman ağırlıklı ortalamadır."
+      }
+    ]
+  },
+  "18. İş Hijyeni": {
+    "kartlar": [
+      {
+        "soru": "İş hijyeni TWA",
+        "cevap": "TWA 8 saatlik zaman ağırlıklı ortalamadır."
+      },
+      {
+        "soru": "Kaynak gerilimi",
+        "cevap": "Ark kaynağında boşta gerilim yaklaşık 65-100 V’tur."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "TWA hangi süre ile ilişkilidir?",
+        "secenekler": {
+          "A": "5 dk",
+          "B": "15 dk",
+          "C": "8 saat",
+          "D": "24 saat"
+        },
+        "cevap": "C",
+        "aciklama": "TWA 8 saatlik zaman ağırlıklı ortalamadır."
+      },
+      {
+        "soru": "Ark kaynağında boşta gerilim yaklaşık hangisidir?",
+        "secenekler": {
+          "A": "5-10",
+          "B": "20-30",
+          "C": "65-100",
+          "D": "220-380"
+        },
+        "cevap": "C",
+        "aciklama": "Ark kaynağında boşta gerilim yaklaşık 65-100 V’tur."
+      }
+    ]
+  },
+  "19. Kaynak İşlerinde İSG": {
+    "kartlar": [
+      {
+        "soru": "Kaynak gerilimi",
+        "cevap": "Ark kaynağında boşta gerilim yaklaşık 65-100 V’tur."
+      },
+      {
+        "soru": "Basınçlı ekipman",
+        "cevap": "Genel periyodik kontrol süresi yılda birdir; özel standart varsa o uygulanır."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Ark kaynağında boşta gerilim yaklaşık hangisidir?",
+        "secenekler": {
+          "A": "5-10",
+          "B": "20-30",
+          "C": "65-100",
+          "D": "220-380"
+        },
+        "cevap": "C",
+        "aciklama": "Ark kaynağında boşta gerilim yaklaşık 65-100 V’tur."
+      },
+      {
+        "soru": "Basınçlı ekipmanda genel periyodik kontrol süresi hangisidir?",
+        "secenekler": {
+          "A": "Ayda bir",
+          "B": "3 ayda bir",
+          "C": "Yılda bir",
+          "D": "10 yılda bir"
+        },
+        "cevap": "C",
+        "aciklama": "Genel periyodik kontrol süresi yılda birdir; özel standart varsa o uygulanır."
+      }
+    ]
+  },
+  "20. Basınçlı Ekipmanlar": {
+    "kartlar": [
+      {
+        "soru": "Basınçlı ekipman",
+        "cevap": "Genel periyodik kontrol süresi yılda birdir; özel standart varsa o uygulanır."
+      },
+      {
+        "soru": "KKD",
+        "cevap": "KKD son koruma basamağıdır; toplu koruma önceliklidir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Basınçlı ekipmanda genel periyodik kontrol süresi hangisidir?",
+        "secenekler": {
+          "A": "Ayda bir",
+          "B": "3 ayda bir",
+          "C": "Yılda bir",
+          "D": "10 yılda bir"
+        },
+        "cevap": "C",
+        "aciklama": "Genel periyodik kontrol süresi yılda birdir; özel standart varsa o uygulanır."
+      },
+      {
+        "soru": "Risk kontrolünde KKD için en doğru ifade hangisidir?",
+        "secenekler": {
+          "A": "İlk ve tek önlem",
+          "B": "Son koruma basamağı",
+          "C": "Risk değerlendirmesi yerine geçer",
+          "D": "Eğitimi gereksiz kılar"
+        },
+        "cevap": "B",
+        "aciklama": "KKD son koruma basamağıdır; toplu koruma önceliklidir."
+      }
+    ]
+  },
+  "21. Kişisel Koruyucu Donanımlar": {
+    "kartlar": [
+      {
+        "soru": "KKD",
+        "cevap": "KKD son koruma basamağıdır; toplu koruma önceliklidir."
+      },
+      {
+        "soru": "İş ekipmanı",
+        "cevap": "İş ekipmanları yetkili kişilerce periyodik kontrole tabi tutulur."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Risk kontrolünde KKD için en doğru ifade hangisidir?",
+        "secenekler": {
+          "A": "İlk ve tek önlem",
+          "B": "Son koruma basamağı",
+          "C": "Risk değerlendirmesi yerine geçer",
+          "D": "Eğitimi gereksiz kılar"
+        },
+        "cevap": "B",
+        "aciklama": "KKD son koruma basamağıdır; toplu koruma önceliklidir."
+      },
+      {
+        "soru": "İş ekipmanlarında güvenli kullanım için hangisi önemlidir?",
+        "secenekler": {
+          "A": "Periyodik kontrol",
+          "B": "Koruyucuyu sökmek",
+          "C": "Bakımı iptal",
+          "D": "Talimatı yok saymak"
+        },
+        "cevap": "A",
+        "aciklama": "İş ekipmanları yetkili kişilerce periyodik kontrole tabi tutulur."
+      }
+    ]
+  },
+  "22. İş Ekipmanları": {
+    "kartlar": [
+      {
+        "soru": "İş ekipmanı",
+        "cevap": "İş ekipmanları yetkili kişilerce periyodik kontrole tabi tutulur."
+      },
+      {
+        "soru": "ILO",
+        "cevap": "ILO çalışma hayatı ve iş güvenliği standartlarıyla ilişkilidir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "İş ekipmanlarında güvenli kullanım için hangisi önemlidir?",
+        "secenekler": {
+          "A": "Periyodik kontrol",
+          "B": "Koruyucuyu sökmek",
+          "C": "Bakımı iptal",
+          "D": "Talimatı yok saymak"
+        },
+        "cevap": "A",
+        "aciklama": "İş ekipmanları yetkili kişilerce periyodik kontrole tabi tutulur."
+      },
+      {
+        "soru": "Çalışma hayatı standartlarıyla en ilişkili kuruluş hangisidir?",
+        "secenekler": {
+          "A": "ILO",
+          "B": "FIFA",
+          "C": "IOC",
+          "D": "NASA"
+        },
+        "cevap": "A",
+        "aciklama": "ILO çalışma hayatı ve iş güvenliği standartlarıyla ilişkilidir."
+      }
+    ]
+  },
+  "23. Uluslararası Kuruluşlar": {
+    "kartlar": [
+      {
+        "soru": "ILO",
+        "cevap": "ILO çalışma hayatı ve iş güvenliği standartlarıyla ilişkilidir."
+      },
+      {
+        "soru": "4857: Haftalık süre",
+        "cevap": "Haftalık normal çalışma süresi en çok 45 saattir."
+      }
+    ],
+    "sorular": [
+      {
+        "soru": "Çalışma hayatı standartlarıyla en ilişkili kuruluş hangisidir?",
+        "secenekler": {
+          "A": "ILO",
+          "B": "FIFA",
+          "C": "IOC",
+          "D": "NASA"
+        },
+        "cevap": "A",
+        "aciklama": "ILO çalışma hayatı ve iş güvenliği standartlarıyla ilişkilidir."
+      },
+      {
+        "soru": "4857 sayılı Kanun’a göre haftalık normal çalışma süresi en çok kaç saattir?",
+        "secenekler": {
+          "A": "40",
+          "B": "42",
+          "C": "45",
+          "D": "48"
+        },
+        "cevap": "C",
+        "aciklama": "Haftalık normal çalışma süresi en çok 45 saattir."
+      }
+    ]
+  }
+}
